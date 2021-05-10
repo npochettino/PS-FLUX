@@ -1,13 +1,6 @@
 {
   "courses": [
     {
-      "id": 1,
-      "title": "Securing React Apps with Auth0",
-      "slug": "react-auth0-authentication-security",
-      "authorId": 1,
-      "category": "JavaScript"
-    },
-    {
       "id": 2,
       "title": "React: The Big Picture",
       "slug": "react-big-picture",
@@ -15,15 +8,8 @@
       "category": "JavaScript"
     },
     {
-      "id": 3,
-      "title": "Creating Reusable React Components",
-      "slug": "react-creating-reusable-components",
-      "authorId": 1,
-      "category": "JavaScript"
-    },
-    {
       "id": 4,
-      "title": "Building a JavaScript Development Environment32333",
+      "title": "Building a JavaScript Development Environment",
       "slug": "javascript-development-environment",
       "authorId": 1,
       "category": "JavaScript"
@@ -69,38 +55,6 @@
       "slug": "web-components-shadow-dom",
       "authorId": 1,
       "category": "HTML5"
-    },
-    {
-      "id": 11,
-      "slug": "lalala",
-      "title": "lalala",
-      "authorId": 1,
-      "category": "2123123",
-      "createdAt": 1620424922510
-    },
-    {
-      "id": 12,
-      "slug": "1231",
-      "title": "1231",
-      "authorId": 1,
-      "category": "sasd",
-      "createdAt": 1620424934987
-    },
-    {
-      "id": 13,
-      "slug": "sasdas",
-      "title": "sasdas",
-      "authorId": 2,
-      "category": "dasd",
-      "createdAt": 1620424976057
-    },
-    {
-      "id": 14,
-      "slug": "asd",
-      "title": "asd",
-      "authorId": 2,
-      "category": "sss",
-      "createdAt": 1620425737762
     }
   ],
   "authors": [
